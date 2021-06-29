@@ -9,8 +9,13 @@ Download the dataset from https://archive.ics.uci.edu/ml/datasets/detection_of_I
 The dataset contains the following devices normal & attack traffic.
 
 Danmini - Doorbell
+
 Ecobee - Thermostat
+
 Philips - Baby Monitor
+
 Ennio - Doorbell
+
 Provision - Security Camera
+
 Samsung SNH 1011 N - Webcam
